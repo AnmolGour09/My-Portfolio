@@ -29,7 +29,7 @@ import CountUp from "react-countup";
 
 import mailIcon from "../../assets/Google.png";
 
-function Index() {
+// function Index() {--->uncomment
   const careerList = [
     { title: "Google Cloud", year: "2025-Present" },
     { title: "Java,React", year: "2024-2025" },
